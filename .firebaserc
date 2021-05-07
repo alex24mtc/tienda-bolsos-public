@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "tienda-bolsos-fbb51"
+  },
+  "targets": {
+    "tienda-bolsos-fbb51": {
+      "hosting": {
+        "tienda-bolsos": [
+          "tienda-bolsos-fbb51"
+        ]
+      }
+    }
+  }
+}
